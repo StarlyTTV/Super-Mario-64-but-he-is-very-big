@@ -2,14 +2,12 @@
  [How To Setup](#how-to-setup)
   - [Download Patch File](#download-patch-file)
   - [Instruction](#instruction)
-- [Inspirations for the Mod / Challenge](#inspirations-for-the-mod--challenge)
-  - [Video Inspirations](#video-inspirations)
-  - [Why I created the Mod](#why-i-created-the-mod)
-  - [Why I documentate everything](#why-i-documentate-everything)
+- [Explanation of the Mod](#explanation-of-the-mod)
+  - [Why do I still documentate it](#why-do-i-still-documentate-it)
 - [Creation Process of the Mod](#creation-process-of-the-mod)
   - [Preperations](#preperations)
   - [Editing of the Code](#editing-of-the-code)
-- [My Main Videos of the Challenge](#My-Main-Videos-of-the-Challenge)
+- [My Shorts Video of the Mod](#My-shorts-video-of-the-mod)
 
 <br>
 
@@ -126,6 +124,6 @@ After that, a folder named "build" will be created with the created ROM inside i
 To test the game, I would recommend the following Emulator (It's the most practical one to test in my opinion): <br>
 https://parallel-launcher.ca/
 
-# My Shorts Video of the Challenge #
+# My Shorts Video of the Mod #
 YouTube Clips Channel: <br>https://www.youtube.com/shorts/PtrpOmF9Vn4 <br> <br>
 TikTok: <br>https://www.tiktok.com/@starlyttv/video/7291429492147359008
